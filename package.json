@@ -1,0 +1,14 @@
+{
+  "name": "mweb3-demo-waves",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
